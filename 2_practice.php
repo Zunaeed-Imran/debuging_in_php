@@ -1,4 +1,5 @@
 <?php
+// Try catch example in php
 
 $n = 0;
 
